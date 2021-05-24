@@ -1,1 +1,5 @@
-# aboutme
+[![Linkedin Badge](https://img.shields.io/badge/-artemdanshin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artemdanshin/)](https://www.linkedin.com/in/artemdanshin/)
+[![Telegram Badge](https://img.shields.io/badge/-artdanshin-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/artdanshin)](https://t.me/artdanshin)
+[![Instagram Badge](https://img.shields.io/badge/-artdanshin-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/artdanshin/)](https://www.instagram.com/artdanshin/)
+[![Facebook Badge](https://img.shields.io/badge/-artdanshin-4680C2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/artdanshin)](https://www.facebook.com/artdanshin)
+[![Spotify Badge](https://img.shields.io/badge/-artdanshin-1ED760?style=for-the-badge&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/y7iuoi9iaay2sv36kuhq6z02p)](https://open.spotify.com/user/y7iuoi9iaay2sv36kuhq6z02p)
